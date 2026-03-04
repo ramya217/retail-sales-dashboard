@@ -6,7 +6,7 @@ sales trends, regional performance, and product profitability using
 Python, SQL, and Power BI.
 
 ## Dashboard Preview
-![Dashboard](retyail.png)
+![Dashboard](retail.png)
 
 ## Key Insights
 - 💰 **$2.3M** total sales across 4 regions (2014–2017)
